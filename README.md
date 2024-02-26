@@ -36,11 +36,11 @@
 
 ## 1.安装
 ``` js
-npm install @alex_xu/xui
+npm install 
 ```
 或者用yarn安装
 ``` js
-yarn add @alex_xu/xui
+yarn add 
 ```
 ## 2. 使用
 ``` jsx
